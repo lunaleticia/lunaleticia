@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Letícia Luna!
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunaleticia&show_icons=true&theme=aura)
 
 <!-- Skills: Programming Languages -->
 <div style="display: inline_block"><br>
