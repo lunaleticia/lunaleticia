@@ -1,4 +1,6 @@
-## <h2 align="center">Olá! Eu sou a Letícia!</h2>
+## <h2>Olá! Eu sou a Letícia!</h2>
+
+<!-- <h2 align="center"></h2> -->
 
 <!-- GithubStats -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunaleticia&show_icons=true&theme=aura)
