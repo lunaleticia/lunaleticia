@@ -1,4 +1,4 @@
-## <h2>Olá! Eu sou a Letícia!</h2>
+## <h2>Olá!</h2>
 
 <!-- <h2 align="center"></h2> -->
 
