@@ -1,4 +1,4 @@
-<h2 align="left">Olá! Eu sou a Letícia Luna</h2>
+<h2 align="left">Olá!</h2>
 
 ###
 
