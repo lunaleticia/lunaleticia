@@ -1,4 +1,4 @@
-<h2>Olá!</h2>
+<h1 align="center"> Olá! </h1>
 
 ###
 
