@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Software Developer<br>- ADS Student</p>
+<p align="left">- Software Developer<br>- Systems Analysis and Development Student</p>
 
 ###
 
